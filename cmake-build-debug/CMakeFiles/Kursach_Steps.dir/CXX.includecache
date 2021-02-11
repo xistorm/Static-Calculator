@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Calculator.h
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+Sample.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Sample.h
+NormalDistribution.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/NormalDistribution.h
+EquableDistribution.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/EquableDistribution.h
+CustomRange.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/CustomRange.h
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+iostream
+-
+iomanip
+-
+conio.h
+-
+string
+-
+vector
+-
+algorithm
+-
+ctime
+-
+cmath
+-
+random
+-
+windows.h
+-
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/CustomRange.h
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+Sample.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Sample.h
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/EquableDistribution.h
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+Sample.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Sample.h
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/NormalDistribution.h
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+Sample.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Sample.h
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Sample.h
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/main.cpp
+Config.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Config.h
+Calculator.h
+C:/Users/Lenovo_302/work/c++/my labs/Kursach Steps/Calculator.h
+
